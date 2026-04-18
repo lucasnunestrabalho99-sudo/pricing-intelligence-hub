@@ -12,12 +12,16 @@
 ## 🖼️ Screenshots
 
 ### Visão Geral do Portfólio & Curva ABC
-<!-- Sugestão: print da aba "Curva ABC" com o gráfico de Pareto e a tabela classificada -->
-![Curva ABC](screenshots/curva_abc.png)
+
+<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/92d625ac-beae-4ffd-94ff-92e923a934fc" />
+
+<img width="1899" height="922" alt="image" src="https://github.com/user-attachments/assets/574b5d32-f73f-456b-88b6-f14f17123731" />
 
 ### Engenharia de Preços — Price Waterfall
-<!-- Sugestão: print do gráfico de cascata (waterfall) no Módulo 2, aba Diagnóstico de Margem -->
-![Price Waterfall](screenshots/price_waterfall.png)
+
+<img width="1920" height="761" alt="image" src="https://github.com/user-attachments/assets/859e2d61-d587-4f1c-9914-b43e30a642dd" />
+<img width="1919" height="486" alt="image" src="https://github.com/user-attachments/assets/c32ffcca-4563-49c2-a5ee-f818a7306a6a" />
+
 
 ### Motor de Elasticidade — Painel de Portfólio
 <!-- Sugestão: print do painel completo de elasticidades com o gráfico de barras horizontais e a tabela abaixo -->

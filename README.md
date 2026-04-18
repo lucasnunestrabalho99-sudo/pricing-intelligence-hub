@@ -2,10 +2,13 @@
 
 > Plataforma analítica de precificação estratégica desenvolvida para distribuidoras e operações de varejo. Cobre desde a engenharia de preços unitária até modelagem econométrica de elasticidade-preço da demanda.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](SEU_LINK_AQUI)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pricing-app-nunes.streamlit.app/)
+
+🌐 **Acesse o app ao vivo:** https://pricing-app-nunes.streamlit.app/
 
 ---
 
@@ -13,23 +16,27 @@
 
 ### Visão Geral do Portfólio & Curva ABC
 
-<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/92d625ac-beae-4ffd-94ff-92e923a934fc" />
-
-<img width="1899" height="922" alt="image" src="https://github.com/user-attachments/assets/574b5d32-f73f-456b-88b6-f14f17123731" />
+<img width="1905" height="437" alt="image" src="https://github.com/user-attachments/assets/8473f9d9-b68d-4e1b-99d3-4560d19136d7" />
+<img width="1907" height="748" alt="image" src="https://github.com/user-attachments/assets/4a7fb211-0787-4837-89f1-052b124b9904" />
 
 ### Engenharia de Preços — Price Waterfall
 
-<img width="1920" height="761" alt="image" src="https://github.com/user-attachments/assets/859e2d61-d587-4f1c-9914-b43e30a642dd" />
-<img width="1919" height="486" alt="image" src="https://github.com/user-attachments/assets/c32ffcca-4563-49c2-a5ee-f818a7306a6a" />
+<img width="1909" height="423" alt="image" src="https://github.com/user-attachments/assets/202bef96-471c-43ae-94f6-14e4237bef84" />
+<img width="1904" height="927" alt="image" src="https://github.com/user-attachments/assets/43ccc7e1-8c32-4e2e-8b61-f63c5da052eb" />
+<img width="1907" height="897" alt="image" src="https://github.com/user-attachments/assets/73a4c03e-faa6-4575-8757-c970cc031934" />
 
 
 ### Motor de Elasticidade — Painel de Portfólio
-<!-- Sugestão: print do painel completo de elasticidades com o gráfico de barras horizontais e a tabela abaixo -->
-![Elasticidade](screenshots/elasticidade_portfolio.png)
+<img width="1906" height="730" alt="image" src="https://github.com/user-attachments/assets/e2185f65-a08e-4f9e-a371-aef10a6d9e3a" />
+<img width="1906" height="452" alt="image" src="https://github.com/user-attachments/assets/08fa2ee9-253c-456b-8e2e-d48732ef3ab9" />
+<img width="1904" height="906" alt="image" src="https://github.com/user-attachments/assets/0dbaa3c4-d091-4d06-82df-e3f1b8c55f36" />
+<img width="1903" height="170" alt="image" src="https://github.com/user-attachments/assets/1084fad8-105c-44b3-a538-1257731ab919" />
+
+
 
 ### Simulador Break-Even Promocional
-<!-- Sugestão: print da aba Break-Even com o gráfico de sensibilidade e os KPIs de resultado -->
-![Break-Even](screenshots/breakeven.png)
+<img width="1910" height="527" alt="image" src="https://github.com/user-attachments/assets/cd806872-72f4-402b-83e4-bb147a3c7600" />
+<img width="1900" height="487" alt="image" src="https://github.com/user-attachments/assets/2e867a45-3256-4058-9f58-478cbc0e8a38" />
 
 ---
 
@@ -147,13 +154,9 @@ O app aceita arquivos `.xlsx` com **duas abas obrigatórias:**
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Lucas**  
-Analista com foco em Inteligência de Pricing, Revenue Management e Otimização de Rentabilidade.
+Desenvolvido por **Lucas Nunes**  
+Economista | Analista com foco em Inteligência de Pricing, Revenue Management e Otimização de Rentabilidade.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?logo=linkedin)](linkedin.com/in/lucas-nunes-da-silva-574604216)
 
 ---
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
